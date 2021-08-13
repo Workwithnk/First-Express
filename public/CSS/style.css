@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  outline: none;
+}
+
+/* navBar */
+.navigationLink {
+  color: white;
+  font-size: 20px;
+}
+
+/* footer */
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(53, 59, 72);
+  color: white;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
